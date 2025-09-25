@@ -1,6 +1,14 @@
 body {
-background-color: royalblue; /*cor do fundo da pagina*/
-color: indigo; /* cor da escrita*/
+background-color: rgb(255, 0, 0); /*cor do fundo da pagina*/
+color: rgb(0, 0, 0); /* cor da escrita*/
+}
+
+header {
+border: solid 2px black;
+font-size: 32px;
+padding: 10px;
+color: crimson;
+
 }
 
 h1{
