@@ -1,6 +1,7 @@
 body {
 background-color: rgb(255, 0, 0); /*cor do fundo da pagina*/
 color: rgb(0, 0, 0); /* cor da escrita*/
+font-family:"Roboto Slab", sans-serif;
 }
 
 header {
