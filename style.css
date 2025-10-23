@@ -1,5 +1,5 @@
 body {
-    background-color: hwb(#0e0c93);
+    background-color: hwb(firebrick);
     /*cor do fundo da pagina*/
     color: rgb(0, 0, 0);
     /* cor da escrita*/
@@ -16,7 +16,7 @@ header {
 }
 
 .chamada {
-    background-color: #08080a;
+    background-color:#9d0000;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
